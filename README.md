@@ -1,16 +1,39 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**dotm4x/dotm4x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Max
 
-Here are some ideas to get you started:
+*Software developer · Open source enthusiast*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building things, exploring ideas, and rethinking how software works.
+
+<table>
+  <tr>
+    <th>Currently working on</th>
+    <th>Interests</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/stonebogus/combine">Combine</a></td>
+    <td>Software · Frontend · Game Development · Open Source</td>
+  </tr>
+</table>
+
+## Projects
+
+<table>
+  <tr>
+    <th>Combine</th>
+    <th>OpenGE</th>
+  </tr>
+  <tr>
+    <td>The foundation for modern user interfaces.</td>
+    <td>The open-source, modular, code-first game engine for .NET.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dotm4x/combine">Repository</a></td>
+    <td><a href="https://github.com/stonebogus/openge">Repository</a></td>
+  </tr>
+</table>
+
+[Stone Bogus](https://github.com/stonebogus) · [GitLab](https://gitlab.com/dotm4x) · [Contact](mailto:max@stonebogus.com)
+
+</div>
