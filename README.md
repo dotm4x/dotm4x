@@ -34,6 +34,6 @@ Building things, exploring ideas, and rethinking how software works.
   </tr>
 </table>
 
-[GitLab](https://gitlab.com/dotm4x) [NuGet](https://nuget.org/profiles/dotm4x) · [Contact](mailto:max@stonebogus.com)
+[GitLab](https://gitlab.com/dotm4x) · [NuGet](https://nuget.org/profiles/dotm4x) · [Contact](mailto:max@stonebogus.com)
 
 </div>
