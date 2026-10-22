@@ -30,10 +30,10 @@ Building things, exploring ideas, and rethinking how software works.
   </tr>
   <tr>
     <td><a href="https://github.com/dotm4x/combine">Repository</a></td>
-    <td><a href="https://github.com/stonebogus/openge">Repository</a></td>
+    <td><a href="https://github.com/dotm4x/openge">Repository</a></td>
   </tr>
 </table>
 
-[Stone Bogus](https://github.com/stonebogus) · [GitLab](https://gitlab.com/dotm4x) · [Contact](mailto:max@stonebogus.com)
+[GitLab](https://gitlab.com/dotm4x) [NuGet](https://nuget.org/profiles/dotm4x) · [Contact](mailto:max@stonebogus.com)
 
 </div>
