@@ -12,7 +12,7 @@ Building things, exploring ideas, and rethinking how software works.
     <th>Interests</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/stonebogus/combine">Combine</a></td>
+    <td><a href="https://github.com/dotm4x/combine">Combine</a></td>
     <td>Software · Frontend · Game Development · Open Source</td>
   </tr>
 </table>
