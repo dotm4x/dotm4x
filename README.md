@@ -12,7 +12,7 @@ Building things, exploring ideas, and rethinking how software works.
     <th>Interests</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/dotm4x/combine">Combine</a></td>
+    <td><a href="https://github.com/dotm4x/blueprint">Blueprint</a></td>
     <td>Software · Frontend · Game Development · Open Source</td>
   </tr>
 </table>
@@ -21,7 +21,7 @@ Building things, exploring ideas, and rethinking how software works.
 
 <table>
   <tr>
-    <th>Combine</th>
+    <th>Blueprint</th>
     <th>OpenGE</th>
   </tr>
   <tr>
@@ -29,7 +29,7 @@ Building things, exploring ideas, and rethinking how software works.
     <td>The open-source, modular, code-first game engine for .NET.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/dotm4x/combine">Repository</a></td>
+    <td><a href="https://github.com/dotm4x/blueprint">Repository</a></td>
     <td><a href="https://github.com/dotm4x/openge">Repository</a></td>
   </tr>
 </table>
