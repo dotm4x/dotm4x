@@ -12,7 +12,7 @@ Building things, exploring ideas, and rethinking how software works.
     <th>Interests</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/dotm4x/blueprint">Blueprint</a></td>
+    <td><a href="https://github.com/dotm4x/notable">Notable</a></td>
     <td>Software · Frontend · Game Development · Open Source</td>
   </tr>
 </table>
@@ -21,15 +21,15 @@ Building things, exploring ideas, and rethinking how software works.
 
 <table>
   <tr>
-    <th>Blueprint</th>
+    <th>Notable</th>
     <th>OpenGE</th>
   </tr>
   <tr>
-    <td>The foundation for modern user interfaces.</td>
+    <td>A collection of thoughtfully crafted, expressive components for the web.</td>
     <td>The open-source, modular, code-first game engine for .NET.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/dotm4x/blueprint">Repository</a></td>
+    <td><a href="https://github.com/dotm4x/notable">Repository</a></td>
     <td><a href="https://github.com/dotm4x/openge">Repository</a></td>
   </tr>
 </table>
