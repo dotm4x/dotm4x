@@ -25,7 +25,7 @@ Building things, exploring ideas, and rethinking how software works.
     <th>OpenGE</th>
   </tr>
   <tr>
-    <td>A collection of thoughtfully crafted, expressive components for the web.</td>
+    <td>A design language for expressive, thoughtful interfaces.</td>
     <td>The open-source, modular, code-first game engine for .NET.</td>
   </tr>
   <tr>
