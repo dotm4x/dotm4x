@@ -12,7 +12,7 @@ Building things, exploring ideas, and rethinking how software works.
     <th>Interests</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/dotm4x/notable">Notable</a></td>
+    <td><a href="https://github.com/dotm4x/one">One</a></td>
     <td>Software · Frontend · Game Development · Open Source</td>
   </tr>
 </table>
@@ -25,11 +25,11 @@ Building things, exploring ideas, and rethinking how software works.
     <th>OpenGE</th>
   </tr>
   <tr>
-    <td>A design language for expressive, thoughtful interfaces.</td>
+    <td>The design system for the web.</td>
     <td>The open-source, modular, code-first game engine for .NET.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/dotm4x/notable">Repository</a></td>
+    <td><a href="https://github.com/dotm4x/one">Repository</a></td>
     <td><a href="https://github.com/dotm4x/openge">Repository</a></td>
   </tr>
 </table>
