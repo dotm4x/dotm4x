@@ -21,7 +21,7 @@ Building things, exploring ideas, and rethinking how software works.
 
 <table>
   <tr>
-    <th>Notable</th>
+    <th>One</th>
     <th>OpenGE</th>
   </tr>
   <tr>
